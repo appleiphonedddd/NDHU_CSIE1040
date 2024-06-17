@@ -9,7 +9,12 @@
 int main()
 {
     char ch;
-    // char ch = 'a' + 1;
+
+    /**
+     * Read the char value from ASCII code then move to next character.
+     */
+    //char ch = 'a' + 1;
+    
     scanf("%c", &ch);
 
     printf("Output: %c\n", ch);
