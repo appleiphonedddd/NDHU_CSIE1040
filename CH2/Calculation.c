@@ -12,7 +12,7 @@ int main()
     // Declare variables as integers
     int integer1, integer2, sum;
 
-    /**
+    /** 
      * int integer1, integer2, sum;
      */
 

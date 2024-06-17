@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2024, NDHU CSIE
  * Authors: TA, WEI-CHE CHIEN
- * Description: Enetr two characters and observe the difference between the two scanf statements.
+ * Description: Enter two characters and observe the difference between the two scanf statements.
  */
 
 #include <stdio.h>
